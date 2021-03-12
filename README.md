@@ -4,6 +4,11 @@
 - 🤖 I’m looking to collaborate on 
 - 📫 How to reach me ...
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 
 <!---
 Me11meep/Me11meep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
